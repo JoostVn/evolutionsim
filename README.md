@@ -1,6 +1,6 @@
 # evolutionsim
 
-![Alt text](imgs\examplerun.gif)
+![Example of evolution run](.\imgs\examplerun.gif)
 
 
 # Cleanup branch
