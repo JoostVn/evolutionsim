@@ -1,7 +1,7 @@
 # evolutionsim
 
 <p>
-<img src=".\imgs\examplerun.gif">
+<img src=".\imgs\still.gif">
 </p>
 
 
