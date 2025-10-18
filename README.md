@@ -1,9 +1,5 @@
 # evolutionsim
 
 <p>
-<img src=".\imgs\still.gif">
+<img src=".\imgs\still.png">
 </p>
-
-
-# Cleanup branch
-- Add some documentation
