@@ -1,6 +1,8 @@
 # evolutionsim
 
-![Example of evolution run](.\imgs\examplerun.gif)
+<p>
+<img src=".\imgs\examplerun.gif">
+</p>
 
 
 # Cleanup branch
