@@ -1,5 +1,5 @@
 import pygame
-from interface import SideBar
+from .interface import SideBar
 from pygametools.color.color import Color
 from pygametools.gui.base import Application
 from pygametools.gui.elements import Button
