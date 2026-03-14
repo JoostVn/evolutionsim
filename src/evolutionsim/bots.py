@@ -1,4 +1,4 @@
-from sensors import AutoPilot, NormalValueSensor, RadialAreaSensor, LinearSensor
+from .sensors import AutoPilot, NormalValueSensor, RadialAreaSensor, LinearSensor
 import numpy as np
 import pygame
 from pygame import gfxdraw
